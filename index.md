@@ -29,7 +29,5 @@
     <br/>
     <br/>
     <img src="https://ep01.epimg.net/elpais/imagenes/2019/02/22/ciencia/1550818709_906141_1550832702_noticia_normal.jpg"></img>
-    
-    Si quieres ir a referencias pulsa <a href="referencias.md">aquí</a>
 </body>
 </html>
