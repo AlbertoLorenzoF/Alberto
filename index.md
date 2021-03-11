@@ -24,10 +24,12 @@
     <br/>
     Visita esta web para más información: <a href="w3schools.com">W3 Schools</a>
     <br/>
+        Si deseas dirigirte a la página de REFERENCIAS pulsa <a href="referencias.md">aquí</a>
     <br/>
     Personalmente nos identificamos con este animal:
     <br/>
     <br/>
     <img src="https://ep01.epimg.net/elpais/imagenes/2019/02/22/ciencia/1550818709_906141_1550832702_noticia_normal.jpg"></img>
+    <br/>
 </body>
 </html>
