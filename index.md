@@ -10,7 +10,7 @@ Cosas que podrás encontrar:
 
 Un ejemplo de código sería el siguiente: `for (i=0; i<100; ++i) {printf("hola");} /* ¿Cuántas líneas tiene este programa? */`  
 
-Visita esta web para más información: [W3 Schools](w3schools.com)  
+Visita esta web para más información: [W3 Schools](https://www.w3schools.com/)  
 Si deseas dirigirte a la página de REFERENCIAS pulsa [aquí](referencias.md)  
 Personalmente nos identificamos con este animal:  
 
